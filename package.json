@@ -1,5 +1,5 @@
 {
-  "name": "throw-error",
+  "name": "@ducktorscience/throw-error",
   "version": "1.0.0",
   "description": "create a function that when called will throw an error with the provided error message.",
   "main": "lib/index.js",
